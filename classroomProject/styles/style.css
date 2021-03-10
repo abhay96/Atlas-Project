@@ -1,0 +1,60 @@
+body{
+    background-color: #fafafa;
+}
+
+.intro{
+    margin-left: 17%;
+    margin-top: 4%;
+}
+
+.contentBox{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.row{
+    margin-left: 12% !important; 
+    margin-right: 12% !important;
+    margin-top: 2% !important;
+}
+
+.module-link{
+    color: black !important;
+    text-decoration: none !important;
+}
+
+
+
+
+
+/* these 3 will adjust the fading in affect at hover 
+   just change the scale values before and after hover */
+
+
+.module-link {
+    width: 100%;
+    margin: 20px;
+    overflow: hidden;
+    background-color: #000;
+}
+
+.module-link img {
+    opacity: 0.9;
+    width: 100%;
+    height: auto;
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+    -webkit-transition: opacity 0.5s, -webkit-transform 0.5s;
+    transition: opacity 0.5s, -webkit-transform 0.5s;
+    transition: transform 0.5s, opacity 0.5s;
+    transition: transform 0.5s, opacity 0.5s, -webkit-transform 0.5s;
+}
+
+.module-link img:hover {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+
+
+/* upto here change values to try the best one */
