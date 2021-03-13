@@ -39,9 +39,21 @@ As the project was quite large so there was certainly a problem of managing thes
 Ofcourse many imrovements can be done in it and i will be doing it soon but for now it was really fun making this project. As it was my first time participating in a hackathon my team and I are really proud of what we have built.
 Some snapshots of the final project:
 
-![pic7pilpycdj](https://user-images.githubusercontent.com/52976099/111036037-38781080-8443-11eb-86d2-933f75287d87.jpeg)
-![piccvjoc9env](https://user-images.githubusercontent.com/52976099/111036042-3dd55b00-8443-11eb-8496-644edcceb8cc.jpeg)
+
+
+
+
 ![pic7zg44otyk](https://user-images.githubusercontent.com/52976099/111036044-3f068800-8443-11eb-8e49-a6d996646aa5.jpeg)
+
+
+
+
+![pic7pilpycdj](https://user-images.githubusercontent.com/52976099/111036037-38781080-8443-11eb-86d2-933f75287d87.jpeg)
+
+
+
+
+![piccvjoc9env](https://user-images.githubusercontent.com/52976099/111036042-3dd55b00-8443-11eb-8496-644edcceb8cc.jpeg)
 
 
 
